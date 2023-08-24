@@ -1,0 +1,67 @@
+.div-developer{
+    text-align: center;
+}
+.developer-heading{
+    color: #000;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    text-transform: capitalize;
+}
+.developer-para{
+    color: rgba(0, 0, 34, 0.50);
+    text-align: center;
+    font-family: Nunito;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    text-transform: capitalize;
+}
+.developer-logo{
+    width: 160px;
+    height: 47.059px;
+}
+.developer-img-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 42px;
+}
+.div-btn{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 82px;
+}
+.hosting{
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #FFF;
+    width: 424px;
+    height: 59px;
+    color: #002;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.blue{
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #1F64FF;
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+    text-transform: capitalize;
+}
+

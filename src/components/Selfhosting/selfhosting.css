@@ -1,0 +1,87 @@
+.self-img-container{
+    text-align: center;
+    margin-top: 42px;
+}
+.self-logo{
+    width: 160px;
+    height: 47.059px;
+}
+.self-div-info{
+    text-align: center;
+}
+.self-heading{
+    color: #000;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; 
+    text-transform: capitalize;
+}
+.self-para{
+    color: rgba(0, 0, 34, 0.50);
+    text-align: center;
+    font-family: Nunito;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; 
+    text-transform: capitalize;
+
+}
+.self-btn-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 82px;
+}
+.self-btn{
+    width: 424px;
+    height: 59px;
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #FFF;
+    color: #002;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.col-blue{
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #1F64FF;
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+    text-transform: capitalize;
+}
+
+.get-repo{    
+    width: 424px;
+    height: 59px;
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #FFF;
+    color: #002;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.container-get-repo{
+    text-align: center;
+    margin-top: 82px;
+}

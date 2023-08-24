@@ -1,0 +1,88 @@
+.container-welcome{
+    margin-top: 80px;
+}
+
+.logo{
+    width: 160px;
+    height: 47.059px;
+}
+
+.div-img{
+    display: flex;
+    justify-content: center;
+    margin-top: 42px;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 28px;
+}
+
+.para{
+    
+    color: rgba(0, 0, 34, 0.50);
+    
+    font-family: Nunito;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 21px */
+    text-transform: capitalize;
+
+}
+
+.div-btn{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.btn{
+    width: 266px;
+    height: 59px;
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #FFF;
+    cursor: pointer;
+}
+.active {
+    border-radius: 5px;
+    border: 1px solid #1F64FF;
+    background: #1F64FF;
+    color: white;
+  }
+.organisation-input{
+    text-align: center;
+    margin-top: 112px;
+}
+.input-or{
+    width: 392px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #FFF;
+    color: rgba(0, 0, 34, 0.50);
+    font-family: Nunito;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 21px */
+    text-transform: capitalize;
+    padding-left: 30px;
+    box-sizing: border-box;
+}
+.btn-or{
+    border-radius: 5px;
+    background: #1F64FF;
+    width: 111px;
+    height: 45px;
+    margin-left: 16px;
+    color: #FFF;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    text-transform: capitalize;
+}
